@@ -1,0 +1,21 @@
+# Sample Text File
+# This text file serves as a sample for demonstrating AI agent capabilities.
+Hello! This is a sample text file for testing the AI agent.
+
+# List of actions the AI agent can perform
+the agent can:
+- Read this file
+- Edit its contents
+- Search for patterns
+
+# Instruction for users to explore more operations
+Feel free to ask the agent to modify this file or create new ones!
+
+# Example of data entries
+# Mimic a structured list of items
+Some test data:
+- Item 1: Apple
+- Item 2: Banana
+- Item 3: Cherry
+
+Configuration value: enabled=true

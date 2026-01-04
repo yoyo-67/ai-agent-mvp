@@ -1,0 +1,19 @@
+{
+  "app_name": "AI Agent MVP",
+  "version": "0.1.0",
+  "settings": {
+    "theme": "dark",
+    "language": "en",
+    "notifications": true
+  },
+  "features": {
+    "file_operations": true,
+    "web_search": false,
+    "code_execution": false
+  },
+  "limits": {
+    "max_file_size_mb": 10,
+    "max_files": 100,
+    "timeout_seconds": 30
+  }
+}
